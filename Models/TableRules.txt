@@ -1,0 +1,17 @@
+﻿
+
+Field Datatype with length 
+1. Name			- varchar(300)
+2. EnglishName	- varchar(120)
+3. Description	- text
+4. Amount		- float
+5. Date field	- datetime
+6. Table Name Reference	- varchar(50)
+7. Email		- varchar(120)
+8. Mobile		- varchar(15)
+9. Phone		- varchar(15)
+10.Fax		- varchar(15)
+11. AddressLine1	- varchar(200)
+12. Lat				- varchar(12)
+13. Url				- varchar(50)
+14. image description - varchar(1000)
